@@ -6,3 +6,9 @@ willing to share to please do so and we can incorperate anything learned into th
 ## Requirements 
 * Node JS 8.9 or higher
 * ImageMagick 7 on your path
+
+## Example workflow
+* Recover Patient.inv from C:\ProgramData\ after running Anatomage's Single Case Viewer.
+* Run this tool over Patient.inv
+* Import the output png files into InVesalius 3.1 https://www.cti.gov.br/en/invesalius
+* Produce STL files
