@@ -3,6 +3,9 @@ A simple tool to decompose Invivo medical imaging .INV files into their componen
 (as far as I can tell) this tool is informed only by the available examples. If you have files you are
 willing to share to please do so and we can incorperate anything learned into this tool.
 
+## Write up
+http://dev-with-alex.blogspot.com/2018/03/reverse-engineering-my-head.html
+
 ## Requirements 
 * Node JS 8.9 or higher
 * ImageMagick 7 on your path
